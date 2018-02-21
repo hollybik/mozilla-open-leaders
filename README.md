@@ -15,3 +15,9 @@ In Your README document, show:
 * Where to find key resources
 
 **Phinch Vision Statement**: I'm working with scientists and data visualization experts to build an open-source software framework so that researchers (in all disciplines) and citizen scientists can easily explore, manipulate, share and export figures from massive genomic datasets.
+
+Homework:
+
+* [Complete Project Canvas](https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/develop-an-open-project-strategy-with-open-canvas/)
+* [Complete Project Roadmap](https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/start-your-project-roadmap/)
+* [Read through Open Leadership 101 materials](https://mozilla.teachable.com/p/open-leadership-101)
