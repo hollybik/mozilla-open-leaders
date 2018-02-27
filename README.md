@@ -21,3 +21,8 @@ Homework:
 * [Complete Project Canvas](https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/develop-an-open-project-strategy-with-open-canvas/)
 * [Complete Project Roadmap](https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/start-your-project-roadmap/)
 * [Read through Open Leadership 101 materials](https://mozilla.teachable.com/p/open-leadership-101)
+
+## Week 2 ###
+
+Etherpad for mentoring meetings: [https://public.etherpad-mozilla.org/p/Phinch](https://public.etherpad-mozilla.org/p/Phinch)
+
