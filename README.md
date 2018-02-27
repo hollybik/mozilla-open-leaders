@@ -26,3 +26,8 @@ Homework:
 
 Etherpad for mentoring meetings: [https://public.etherpad-mozilla.org/p/Phinch](https://public.etherpad-mozilla.org/p/Phinch)
 
+Mozilla Global Sprint: [https://foundation.mozilla.org/opportunity/global-sprint/](https://foundation.mozilla.org/opportunity/global-sprint/)
+
+To Do:
+
+* Mozilla Open Leadership course (hourlong training):[https://mozilla.teachable.com/p/open-leadership-101](https://mozilla.teachable.com/p/open-leadership-101)
