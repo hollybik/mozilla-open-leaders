@@ -31,3 +31,23 @@ Mozilla Global Sprint: [https://foundation.mozilla.org/opportunity/global-sprint
 To Do:
 
 * Mozilla Open Leadership course (hourlong training):[https://mozilla.teachable.com/p/open-leadership-101](https://mozilla.teachable.com/p/open-leadership-101)
+
+## Week 3 ###
+
+Sharing your work in the open: [https://mozilla.github.io/open-leadership-training-series/articles/get-your-project-online/sharing-your-work-in-the-open/](https://mozilla.github.io/open-leadership-training-series/articles/get-your-project-online/sharing-your-work-in-the-open/)
+
+Choosing a license: [https://choosealicense.com/](https://choosealicense.com/)
+
+Homework:
+
+* (due Week 5) Write your project README: [Link](https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/write-a-great-project-readme/)
+
+* Lead a project in the Global Sprint: [Link](https://foundation.mozilla.org/opportunity/global-sprint/lead-a-project/)
+	* Global Sprint: [Link](http://mzl.la/global-sprint)
+
+	* (due Week 10) Complete tasks to get your project featured at the Global Sprint
+Instructions will appear in the GitHub issue you create when you submit your project
+
+* (optional) Personas and Pathways: [Link](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/bring-on-contributors-using-personas-and-pathways/)
+
+* (optional - due Friday) Test the Open Leadership Map: [Link](https://medium.com/read-write-participate/testing-open-leadership-map-use-cases-dd8f41ccc8b0)
