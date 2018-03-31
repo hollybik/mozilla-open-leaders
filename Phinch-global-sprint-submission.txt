@@ -1,0 +1,15 @@
+# Project Description
+
+Phinch is a open source browser-based, interactive data visualization tool for exploring environmental genomics datasets that enables rapid scientific visualization during the typical scientific research workflow. The project is a collaboration between Dr. Holly Bik (Assistant Professor at UC Riverside) and Pitch Interactive (a data visualization studio in Oakland, CA), and is funded by the Alfred P. Sloan Foundation. End users include researchers, educators, students, and citizen scientists.
+
+# What's the most unique or exciting aspect of this project?
+
+The Phinch data visualization framework represents a continuing collaboration between project leader Holly Bik (Assistant Professor at UC Riverside) and Pitch Interactive (a data visualization studio in Oakland, CA). We're aiming to help scientists tell stories with their genomic datasets, creating compelling narratives and eye-catching visuals that are useful for both academic research papers and the public dissemination of research products.
+
+# What impact or change will this project create?
+
+Phinch visualizations will promote the use of novel visualization tools as a rapid, efficient part of the scientific workflow. Scientists will be able to visually explore, filter, and manipulate their massive genomic datasets in a way that is not currently possible--including the quick export of publication-quality graphics and permanent online links to visualized datasets that can accompany scientific publications. Furthermore, our visuals will be used for engaging citizen scientists and educators in ongoing research projects--Phinch will make complex genomic datasets accessible to non-computational audiences who are interested in the underlying scientific ideas.
+
+# What motivated you to create or join this project?
+
+As a scientist, I was continually frustrated by the outdated tools and software that are typically used to visualize and manipulate datasets. The generation of routine scientific visualizations usually requires significant programming expertise and/or use of difficult scientific software. Routine visuals are also not the most informative ways to explore massive genomic datasets, so there is also a pressing need for novel tools and visuals that help us build stronger narratives (that are currently hidden within these huge datasets). There is also an aesthetic argument for bringing stronger graphic design principles into scientific visualization -- most scientists do not have training in this area, and existing scientific visualization tools often do not take into account things such as color schemes, layout, information content, etc.
