@@ -51,3 +51,23 @@ Instructions will appear in the GitHub issue you create when you submit your pro
 * (optional) Personas and Pathways: [Link](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/bring-on-contributors-using-personas-and-pathways/)
 
 * (optional - due Friday) Test the Open Leadership Map: [Link](https://medium.com/read-write-participate/testing-open-leadership-map-use-cases-dd8f41ccc8b0)
+
+## Week 9 ##
+
+[Main webpage for Mozilla Global Sprint](https://foundation.mozilla.org/opportunity/global-sprint/)
+
+Examples of good Mozilla Global Sprint issues:
+
+technical: 
+
+* [clear instructions](https://github.com/chartgerink/retractcheck/issues/1)
+
+discussion: 
+
+* [introductions](https://github.com/MozillaFoundation/mpa-cryptomancer-challenge/issues/1)
+* [gathering ideas](https://github.com/MozillaFoundation/mpa-cryptomancer-challenge/issues/9)
+
+point to another platform for contribution: 
+
+* [leave audio msg](https://github.com/the-method/podcast/issues/42)
+* [review gdoc](https://github.com/dbild/teen-open-leadership/issues/10)
